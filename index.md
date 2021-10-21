@@ -10,4 +10,4 @@
 
 ## INTERMEDIATE + ADVANCED
 ### [01 Advanced Cartography and Map Design I](advanced/01-advanced-cartography-map-design-1/index.html)
-### [02 Advanced Cartography and Map Design I](advanced/02-advanced-cartography-map-design-2/index.html)
+### [02 Advanced Cartography and Map Design II](advanced/02-advanced-cartography-map-design-2/index.html)
